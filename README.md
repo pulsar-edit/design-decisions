@@ -1,3 +1,5 @@
+### This Repo is now Archived under Pulsar-Edit because the decisions documented in this repo are not ours, and we will document our choices seperately and differently.
+
 # Design Decisions
 
 A place to document various Atom project design decisions for public reference.
